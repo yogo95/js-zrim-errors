@@ -4,7 +4,9 @@
   "description": "Contains some errors",
   "main": "index.js",
   "scripts": {
-    "test": "npm run unitTest"
+    "test": "npm run unitTest",
+    "unitTest": "node test/unit/index.js",
+    "codeStyleValidation": "eslint lib/** api/** test/** *.js"
   },
   "repository": {
     "type": "git",
