@@ -1,0 +1,30 @@
+{
+  "name": "js-zrim-errors",
+  "version": "0.1.0",
+  "description": "Contains some errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run unitTest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogo95/js-zrim-errors.git"
+  },
+  "keywords": [
+    "zrim-everything",
+    "error"
+  ],
+  "author": "NEGRO, Eric <yogo95@zrim-everything.eu>",
+  "license": "CECILL-2.1",
+  "bugs": {
+    "url": "https://github.com/yogo95/js-zrim-errors/issues"
+  },
+  "homepage": "https://github.com/yogo95/js-zrim-errors#readme",
+  "devDependencies": {
+    "js-zrim-test-bootstrap": "0.1.0"
+  },
+  "dependencies": {
+    "js-zrim-utils": "0.1.0",
+    "lodash": "4.17.4"
+  }
+}
