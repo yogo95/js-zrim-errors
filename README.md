@@ -47,6 +47,9 @@ Error available:
 - OperationNotPermittedError : The operation is not permitted
 - RequirementsNotSatisfiedError : Requirements are not satisfied
 - TimedOutError : Action timed out
+- AlreadyExistsError : Already exists error
+- MismatchError : Mismatch error
+- ReadOnlyError : Read only error
 
 ## Remote errors
 
